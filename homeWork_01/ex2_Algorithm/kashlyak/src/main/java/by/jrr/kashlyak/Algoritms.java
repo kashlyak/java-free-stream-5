@@ -13,7 +13,7 @@ public class Algoritms {
         BuyingBread();
     }
     public void TurnOnComputer() {
-        System.out.println("1. Включение компьютера.");
+        System.out.println("1. Включение компьютера");
         System.out.println("a) Заварчить чай.");
         System.out.println("b) Подойти к компьютеру.");
         System.out.println("c) Нажать кнопку включения.");
