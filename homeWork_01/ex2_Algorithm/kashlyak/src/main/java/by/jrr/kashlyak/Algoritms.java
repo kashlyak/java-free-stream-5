@@ -20,7 +20,7 @@ public class Algoritms {
         System.out.println("d) Ожидать загрузку ОС.");
     }
     public void GetToWork() {
-        System.out.println("\n2. Добраться до работы.");
+        System.out.println("\n2. Добраться до работы");
         System.out.println("a) Проснуться.");
         System.out.println("b) Умыться.");
         System.out.println("c) Заварить кофе.");

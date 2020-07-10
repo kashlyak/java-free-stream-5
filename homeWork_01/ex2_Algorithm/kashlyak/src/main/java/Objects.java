@@ -98,7 +98,7 @@ public class Objects {
         System.out.println("Закрыта - нельзя читать.");
     }
     public void Laser() {
-        System.out.println("10. Лазер.");
+        System.out.println("10. Лазер");
         System.out.println("Состояние:");
         System.out.println("Включен/выключен.");
         System.out.println("Поведение:");
