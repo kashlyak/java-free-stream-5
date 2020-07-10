@@ -90,7 +90,7 @@ public class Objects {
         System.out.println("Закрыта - нельзя пройти.");
     }
     public void Book(){
-        System.out.println("9. Книга");
+        System.out.println("9. Книга.");
         System.out.println("Состояние:");
         System.out.println("Открыта/закрыта.");
         System.out.println("Поведение:");
@@ -98,7 +98,7 @@ public class Objects {
         System.out.println("Закрыта - нельзя читать.");
     }
     public void Laser() {
-        System.out.println("10. Лазер");
+        System.out.println("10. Лазер.");
         System.out.println("Состояние:");
         System.out.println("Включен/выключен.");
         System.out.println("Поведение:");
